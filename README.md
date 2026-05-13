@@ -1,29 +1,64 @@
-## 👋 Hello, I'm Cole
+# CDEV
 
-🎓 **Education**
-I am currently pursuing my university degree, with a focus on building strong technical and problem-solving skills.
+## 👋 About Me
+Hi, I’m Cole — a developer focused on building reliable, scalable, and efficient software solutions.  
+My primary interests are centered around DevOps, platform engineering, backend systems, and automation.
 
-💻 **Interests & Focus Areas**
+I enjoy designing systems that are practical, maintainable, and production-ready while continuously improving my technical and problem-solving abilities.
 
-* DevOps & Platform Engineering
-* Software Development & System Design
-* Automation and Scalable Infrastructure
+---
 
-🌱 **Currently Learning**
-I am actively expanding my knowledge in DevOps practices, cloud infrastructure, and building efficient, production-ready systems.
+## 💻 Technical Interests
 
-🤝 **Collaboration**
-I’m always open to collaborating on coding projects, especially those involving backend systems, infrastructure, or innovative problem-solving.
+- DevOps & Platform Engineering
+- Backend Development
+- Cloud Infrastructure
+- Automation & CI/CD
+- System Design
+- Infrastructure as Code
+- Scalable Application Architecture
 
-🧠 **Goals**
+---
 
-* Develop practical, real-world coding solutions
-* Strengthen my understanding of modern development workflows
-* Contribute to impactful and meaningful projects
+## 🌱 Currently Learning
 
-📫 **Contact**
-Feel free to reach out: **[Cbreinig12@gmail.com](mailto:Cbreinig12@gmail.com)**
+I am actively expanding my knowledge in:
 
-⚡ **Fun Fact**
-Outside of coding, I enjoy working on cars and learning how things function mechanically—something that also influences my approach to problem-solving in tech.
+- Cloud platforms and infrastructure
+- Containerization and orchestration
+- CI/CD workflows and deployment strategies
+- Infrastructure automation
+- Production-grade system design
+
+---
+
+## 🚀 Goals
+
+- Build practical, real-world software solutions
+- Strengthen expertise in modern development workflows
+- Contribute to impactful and meaningful projects
+- Continue developing scalable and efficient systems
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on projects involving:
+
+- Backend systems
+- DevOps tooling
+- Infrastructure automation
+- Open-source development
+- Problem-solving focused applications
+
+---
+
+## 🛠️ Technologies & Tools
+
+```txt
+Languages:      Python, JavaScript, Bash
+Tools:          Git, Docker, Linux
+Focus Areas:    DevOps, Automation, Backend Systems
+Currently Exploring:
+                Cloud Infrastructure & Platform Engineering
 
