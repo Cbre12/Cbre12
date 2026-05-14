@@ -1,64 +1,50 @@
-# CDEV
+# Cole · CDEV
 
-## 👋 About Me
-Hi, I’m Cole — a developer focused on building reliable, scalable, and efficient software solutions.  
-My primary interests are centered around DevOps, platform engineering, backend systems, and automation.
-
-I enjoy designing systems that are practical, maintainable, and production-ready while continuously improving my technical and problem-solving abilities.
+> Building reliable, scalable, and production-ready software — with a focus on the systems that make software actually ship.
 
 ---
 
-## 💻 Technical Interests
+## What I Do
 
-- DevOps & Platform Engineering
-- Backend Development
-- Cloud Infrastructure
-- Automation & CI/CD
-- System Design
+I work at the intersection of **backend development**, **DevOps**, and **platform engineering** — designing systems that are practical, maintainable, and built to last. I'm drawn to the infrastructure layer: the pipelines, the containers, the automation that holds everything together.
+
+---
+
+## Tech & Tools
+
+| Category | Stack |
+|---|---|
+| **Languages** | Python · JavaScript · Bash |
+| **Tools** | Git · Docker · Linux |
+| **Focus** | DevOps · Backend Systems · Automation |
+| **Exploring** | Cloud Infrastructure · Platform Engineering |
+
+---
+
+## Currently Working On
+
+- Deepening expertise in **cloud platforms** and **infrastructure automation**
+- Building fluency with **containerization and orchestration** (Kubernetes et al.)
+- Designing **CI/CD workflows** that are fast, reliable, and low-maintenance
+- Writing software that solves real problems — not demos, actual production systems
+
+---
+
+## Open To
+
+I'm happy to collaborate on projects involving:
+
+- Backend systems and API design
+- DevOps tooling and automation
 - Infrastructure as Code
-- Scalable Application Architecture
+- Open-source tools with a clear practical purpose
 
 ---
 
-## 🌱 Currently Learning
+## Goals
 
-I am actively expanding my knowledge in:
-
-- Cloud platforms and infrastructure
-- Containerization and orchestration
-- CI/CD workflows and deployment strategies
-- Infrastructure automation
-- Production-grade system design
+Build things that work. Understand systems deeply. Ship software that doesn't require babysitting.
 
 ---
 
-## 🚀 Goals
-
-- Build practical, real-world software solutions
-- Strengthen expertise in modern development workflows
-- Contribute to impactful and meaningful projects
-- Continue developing scalable and efficient systems
-
----
-
-## 🤝 Collaboration
-
-I’m open to collaborating on projects involving:
-
-- Backend systems
-- DevOps tooling
-- Infrastructure automation
-- Open-source development
-- Problem-solving focused applications
-
----
-
-## 🛠️ Technologies & Tools
-
-```txt
-Languages:      Python, JavaScript, Bash
-Tools:          Git, Docker, Linux
-Focus Areas:    DevOps, Automation, Backend Systems
-Currently Exploring:
-                Cloud Infrastructure & Platform Engineering
-
+*Always learning. Always shipping.*
