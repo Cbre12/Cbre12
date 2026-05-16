@@ -1,4 +1,4 @@
-# Cole · CDEV
+# Cole 
 
 > Building reliable, scalable, and production-ready software — with a focus on the systems that make software actually ship.
 
