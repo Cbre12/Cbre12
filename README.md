@@ -23,6 +23,4 @@ I work across backend development, DevOps, and platform engineering. My focus is
 - CI/CD workflows that are fast, reliable, and low-maintenance
 - Software that solves real problems — not demos, production systems
 
-## Open To
 
-Collaboration on backend systems, DevOps tooling, infrastructure as code, and open-source projects with a clear practical purpose. Feel free to reach out.
