@@ -1,26 +1,30 @@
 # Cole
 
-Building reliable, production-ready software — with an eye on the systems that make it ship.
+I build and maintain the systems behind modern applications — focusing on backend services, infrastructure automation, and developer tooling. My work centers around creating reliable, maintainable platforms that improve deployment workflows, system scalability, and operational efficiency.
 
-## What I Do
+I’m particularly interested in cloud infrastructure and building internal tooling that helps teams move faster with fewer operational bottlenecks.
 
-I work across backend development, DevOps, and platform engineering. My focus is on the infrastructure layer: the pipelines, automation, and tooling that hold production systems together. I care about writing software that's maintainable, well-structured, and built for real-world use.
+---
 
-## Stack
+## Tech Stack
 
-| Category | Tools |
+| Category | Technologies |
 |---|---|
-| Languages | Python · JavaScript · Bash |
-| Tooling | Git · Docker · Linux |
-| Databases | SQL · Oracle |
-| Focus | Backend Systems · DevOps · Automation |
-| Exploring | Cloud Infrastructure · Platform Engineering |
+| **Languages** | Python · JavaScript · Bash |
+| **Infrastructure & Tooling** | Docker · Git · Linux |
+| **Databases** | SQL · Oracle |
+| **Focus Areas** | Backend Systems · DevOps · CI/CD · Automation |
+| **Currently Exploring** | Cloud Infrastructure · Platform Engineering |
 
-## Currently Working On
+---
 
-- Cloud platforms and infrastructure automation
-- Containerization and orchestration (Kubernetes et al.)
-- CI/CD workflows that are fast, reliable, and low-maintenance
-- Software that solves real problems — not demos, production systems
+## What I’m Working On
+
+- Infrastructure automation and deployment workflows
+- CI/CD pipelines focused on reliability and maintainability
+- Containerized development and production environments
+- Backend systems and operational tooling
+- Expanding knowledge in cloud-native infrastructure and platform engineering
+
 
 
