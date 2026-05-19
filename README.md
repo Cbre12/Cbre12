@@ -7,12 +7,12 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Cbre12&show_icons=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cbre12&theme=github_dark"
   height="165"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbre12&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cbre12&theme=github_dark"
   height="165"
 />
 
