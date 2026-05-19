@@ -25,7 +25,7 @@ Backend Engineer focused on building reliable systems — from AI infrastructure
 |:---:|:---:|:---|
 | 🔌 | **MCP Servers** | Connecting AI models to internal systems and workflows |
 | 🎮 | **Game Development** | Backend systems and infrastructure for games |
-| 📱 | **Mobile Apps** | Android apps shipped on Google Play |
+| 📱 | **Apps** | Android apps shipped on Google Play |
 | ⚙️ | **Infrastructure** | Automation, CI/CD, and containerized environments |
 | 🤖 | **AI Integration** | Wiring AI into real operational workflows |
 
