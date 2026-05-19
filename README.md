@@ -8,12 +8,12 @@
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cbre12&theme=github_dark"
-  height="165"
+  height="195"
 />
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cbre12&theme=github_dark"
-  height="165"
+  height="195"
 />
 
 </div>
