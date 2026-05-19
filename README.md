@@ -25,7 +25,7 @@ Backend Engineer focused on building reliable systems — from AI infrastructure
 |:---:|:---:|:---|
 | 🔌 | **MCP Servers** | Connecting AI models to internal systems and workflows |
 | 🎮 | **Game Development** | Backend systems and infrastructure for games |
-| 📱 | **Apps** | Android apps shipped on Google Play |
+| 📱 | **Mobile Apps** | Android apps shipped on Google Play |
 | ⚙️ | **Infrastructure** | Automation, CI/CD, and containerized environments |
 | 🤖 | **AI Integration** | Wiring AI into real operational workflows |
 
@@ -34,5 +34,15 @@ Backend Engineer focused on building reliable systems — from AI infrastructure
 ---
 
 <img src="https://streak-stats.demolab.com?user=Cbre12&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+---
+
+## 🧠 Languages Used
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbre12&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
