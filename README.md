@@ -3,6 +3,7 @@
 
 <br>
 
+
 ---
 
 ### 🛠 Tech Stack
@@ -39,4 +40,10 @@
 |---|---|---|
 | 🔌 | MCP Servers | Connecting AI models to internal systems and workflows |
 | 🎮 | Game Development | Backend systems and infrastructure for games |
-| 📱 | Mobile Apps | An
+| 📱 | Mobile Apps | Android apps shipped on Google Play |
+| ⚙️ | Infrastructure | Automation, CI/CD, and containerized environments |
+| 🤖 | AI Integration | Wiring AI into real operational workflows |
+
+</div>
+
+---
