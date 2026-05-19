@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Cole 👋
+# Hi, I'm Cole 
 Backend Engineer focused on building reliable systems — from AI infrastructure and game backends to mobile apps and automated pipelines.
 <br>
 
@@ -15,7 +15,7 @@ Backend Engineer focused on building reliable systems — from AI infrastructure
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
 <br>
 
