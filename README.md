@@ -13,13 +13,11 @@
 
 ### 🛠 Tech Stack
 
-<br>
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,linux,androidstudio,github" />
-</div>
-
 <br>
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,linux,androidstudio,github" />
+<br><br>
+</div>
 
 ---
 
