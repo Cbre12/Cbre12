@@ -19,6 +19,8 @@
 <img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,linux,androidstudio,github" />
 </div>
 
+<br>
+
 ---
 
 ### 🔥 Activity
