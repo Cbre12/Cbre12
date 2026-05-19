@@ -16,9 +16,7 @@ I’m particularly interested in cloud infrastructure and building internal tool
 
 ## Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbre12&layout=compact&theme=github_dark" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cbre12&layout=compact)
 
 ---
 
@@ -36,7 +34,4 @@ I’m particularly interested in cloud infrastructure and building internal tool
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cbre12&show_icons=true&theme=github_dark" />
-</p>
-
+![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cbre12&show_icons=true)
