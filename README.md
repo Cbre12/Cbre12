@@ -15,18 +15,25 @@
 
 <br>
 
+<div align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,linux,androidstudio,github" />
+</div>
 
 ---
 
 ### 🔥 Activity
+
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=Cbre12&theme=github-dark-blue&hide_border=true" />
+</div>
 
 ---
 
 ### 🚀 What I'm Building
 
 <br>
+
+<div align="center">
 
 | | Area | Focus |
 |---|---|---|
@@ -35,5 +42,7 @@
 | 📱 | Mobile Apps | Android apps shipped on Google Play |
 | ⚙️ | Infrastructure | Automation, CI/CD, and containerized environments |
 | 🤖 | AI Integration | Wiring AI into real operational workflows |
+
+</div>
 
 ---
