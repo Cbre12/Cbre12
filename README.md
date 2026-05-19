@@ -14,16 +14,27 @@ I build and maintain backend systems, infrastructure automation, and developer t
 
 ## Used Languages
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbre12&layout=compact&hide_border=true&cache_seconds=1800" />
+</p>
 
 ---
 
-## GitHub Stats (Stable Alternative)
+## GitHub Activity
 
-![GitHub Stars](https://img.shields.io/github/stars/Cbre12?style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/Cbre12?style=for-the-badge)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cbre12&hide_border=true" />
+</p>
+
+---
+
+## Profile Metrics
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Cbre12&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Cbre12?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Cbre12?style=for-the-badge" />
+</p>
 
 ---
 
