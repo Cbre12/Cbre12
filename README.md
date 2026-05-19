@@ -4,23 +4,37 @@ I build and maintain the systems behind modern applications — focusing on back
 
 I’m particularly interested in cloud infrastructure and building internal tooling that helps teams move faster with fewer operational bottlenecks.
 
+---
+
 ## Tech Stack
 
-| Category | Technologies |
-|---|---|
-| Languages | Python · JavaScript · Bash |
-| Infrastructure & Tooling | Docker · Git · Linux |
-| Databases | SQL · Oracle |
-| Focus Areas | Backend Systems · DevOps · CI/CD · Automation |
-| Currently Exploring | Cloud Infrastructure · Platform Engineering · MCP · AI Integrations |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,git,linux,mysql" />
+</p>
+
+## Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbre12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## What I’m Working On
 
-- Infrastructure automation and deployment workflows  
-- CI/CD pipelines focused on reliability and maintainability  
-- Containerized development and production environments  
-- Backend systems and operational tooling  
-- MCP-based tooling for connecting models to internal systems and workflows  
-- Business AI integrations for automating operations, data workflows, and internal tools  
+- Infrastructure automation and deployment workflows
+- CI/CD pipelines focused on reliability and maintainability
+- Containerized development and production environments
+- Backend systems and operational tooling
+- MCP-based tooling for connecting models to internal systems and workflows
+- Business AI integrations for automating operations, data workflows, and internal tools
 - Expanding into cloud-native architecture, platform engineering, and AI-driven infrastructure
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cbre12&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
