@@ -1,37 +1,47 @@
 # Cole
 
-I build and maintain backend systems, infrastructure automation, and developer tooling focused on reliability, scalability, and operational efficiency.
+> Backend systems · Infrastructure automation · Developer tooling
 
 ---
 
-## Tech Stack
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,git,linux,mysql" />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Cbre12&show_icons=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbre12&layout=compact&hide_border=true&theme=github_dark&langs_count=6"
+  height="165"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=Cbre12&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+/>
+
+</div>
 
 ---
 
-## Used Languages
+<div align="center">
 
-Python · JavaScript · Bash
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,linux,github" />
 
----
-
-## Profile Stats
-
-![GitHub Followers](https://img.shields.io/github/followers/Cbre12?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/Cbre12?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=Cbre12&style=for-the-badge)
+</div>
 
 ---
 
-## What I’m Working On
+## What I'm Working On
 
-- Infrastructure automation and deployment workflows  
-- CI/CD pipelines focused on reliability and maintainability  
-- Containerized development and production environments  
-- Backend systems and operational tooling  
-- MCP-based tooling for connecting models to internal systems and workflows  
-- Business AI integrations for automating operations, data workflows, and internal tools  
-- Expanding into cloud-native architecture, platform engineering, and AI-driven infrastructure  
+- 🔧 Infrastructure automation and deployment workflows
+- 🔁 CI/CD pipelines focused on reliability and maintainability
+- 🐳 Containerized development and production environments
+- ⚙️ Backend systems and operational tooling
+- 🔌 MCP-based tooling for connecting models to internal systems
+- 🤖 Business AI integrations for automating operations and data workflows
+- ☁️ Expanding into cloud-native architecture and platform engineering
