@@ -13,19 +13,17 @@
 
 ### 🛠 Tech Stack
 
-<p align="center">
-<br>
-<img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,linux,androidstudio,github" />
-<br><br>
-</p>
+| |
+|:---:|
+| <img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,linux,androidstudio,github" /> |
 
 ---
 
 ### 🔥 Activity
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Cbre12&theme=github-dark-blue&hide_border=true" />
-</p>
+| |
+|:---:|
+| <img src="https://streak-stats.demolab.com?user=Cbre12&theme=github-dark-blue&hide_border=true" /> |
 
 ---
 
