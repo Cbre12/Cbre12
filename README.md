@@ -1,9 +1,7 @@
 <div align="center">
 
 # Hi, I'm Cole 👋
-
 Backend Engineer focused on building reliable systems — from AI infrastructure and game backends to mobile apps and automated pipelines.
-
 <br>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
@@ -33,7 +31,7 @@ Backend Engineer focused on building reliable systems — from AI infrastructure
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=Cbre12&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cbre12&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
 <br><br>
 
