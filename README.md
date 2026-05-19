@@ -12,10 +12,12 @@ I’m particularly interested in cloud infrastructure and building internal tool
   <img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,git,linux,mysql" />
 </p>
 
+---
+
 ## Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbre12&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbre12&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -35,6 +37,6 @@ I’m particularly interested in cloud infrastructure and building internal tool
 ## GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cbre12&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cbre12&show_icons=true&theme=github_dark" />
 </p>
 
