@@ -14,27 +14,15 @@ I build and maintain backend systems, infrastructure automation, and developer t
 
 ## Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbre12&layout=compact&hide_border=true&cache_seconds=1800" />
-</p>
+Python · JavaScript · Bash
 
 ---
 
-## GitHub Activity
+## Profile Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cbre12&hide_border=true" />
-</p>
-
----
-
-## Profile Metrics
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Cbre12&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Cbre12?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Cbre12?style=for-the-badge" />
-</p>
+![GitHub Followers](https://img.shields.io/github/followers/Cbre12?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/Cbre12?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Cbre12&style=for-the-badge)
 
 ---
 
