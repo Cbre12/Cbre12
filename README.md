@@ -14,17 +14,16 @@ I build and maintain backend systems, infrastructure automation, and developer t
 
 ## Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cbre12&layout=compact&hide_border=true" />
-</p>
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
-## GitHub Stats
+## GitHub Stats (Stable Alternative)
 
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cbre12&show_icons=true&hide_border=true" />
-</p>
+![GitHub Stars](https://img.shields.io/github/stars/Cbre12?style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Cbre12?style=for-the-badge)
 
 ---
 
