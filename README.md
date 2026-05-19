@@ -33,6 +33,10 @@ Backend Engineer focused on building reliable systems — from AI infrastructure
 
 <img src="https://streak-stats.demolab.com?user=Cbre12&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
+<br>
+
+<img src="languages.svg" alt="Top Languages" />
+
 <br><br>
 
 ---
