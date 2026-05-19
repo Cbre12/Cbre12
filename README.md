@@ -35,10 +35,6 @@ Backend Engineer focused on building reliable systems — from AI infrastructure
 
 <br>
 
-<img src="languages.svg" alt="Top Languages" />
-
-<br><br>
-
 ---
 
 </div>
