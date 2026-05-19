@@ -1,6 +1,8 @@
 # Hi, I'm Cole 👋
 > Backend engineer building MCP servers, game backends, mobile apps, and the infrastructure behind them.
 
+---
+
 <br>
 
 ![](https://img.shields.io/badge/MCP%20Servers-1f6feb?style=flat-square&logoColor=white)
@@ -9,17 +11,17 @@
 ![](https://img.shields.io/badge/Backend%20Systems-e36209?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Infrastructure-1a7f75?style=flat-square&logoColor=white)
 
-<br>
+---
 
 ### 🛠 Tech Stack
 <img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,linux,androidstudio,github" />
 
-<br>
+---
 
 ### 🔥 Activity
 <img src="https://streak-stats.demolab.com?user=Cbre12&theme=github-dark-blue&hide_border=true" />
 
-<br>
+---
 
 ### 🚀 What I'm Building
 
@@ -30,3 +32,5 @@
 | 📱 | Mobile Apps | Android apps shipped on Google Play |
 | ⚙️ | Infrastructure | Automation, CI/CD, and containerized environments |
 | 🤖 | AI Integration | Wiring AI into real operational workflows |
+
+---
