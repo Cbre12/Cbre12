@@ -1,6 +1,7 @@
 # Hi, I'm Cole 👋
 > Backend engineer building MCP servers, game backends, mobile apps, and the infrastructure behind them.
 
+
 ---
 
 
