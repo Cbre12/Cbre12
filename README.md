@@ -2,19 +2,31 @@
 
 # Hi, I'm Cole 👋
 
-**Backend engineer focused on building reliable systems, automating infrastructure, and creating tools that make development faster and operations smoother.**
+Backend engineer building MCP servers, game backends, mobile apps, and the infrastructure behind them.
+
+<br/>
+
+![](https://img.shields.io/badge/MCP%20Servers-0d1117?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Game%20Development-0d1117?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Google%20Play%20Apps-0d1117?style=for-the-badge&logo=googleplay&logoColor=white)
+![](https://img.shields.io/badge/Backend%20Systems-0d1117?style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/Infrastructure-0d1117?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
+### 🛠 Tech Stack
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Cbre12&show_icons=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cbre12&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,linux,androidstudio,github" />
 
 </div>
+
+---
+
+### 🔥 Activity
 
 <div align="center">
 
@@ -24,27 +36,12 @@
 
 ---
 
-<div align="center">
+### 🚀 What I'm Building
 
-<img src="https://skillicons.dev/icons?i=python,javascript,bash,docker,linux,github" />
-
-</div>
-
----
-
-## What I'm Working On
-
-<div align="center">
-
-![](https://img.shields.io/badge/-Infrastructure%20Automation-1f6feb?style=flat-square)
-![](https://img.shields.io/badge/-Deployment%20Workflows-1f6feb?style=flat-square)
-![](https://img.shields.io/badge/-CI%2FCD%20Pipelines-1f6feb?style=flat-square)
-![](https://img.shields.io/badge/-Containerization-1f6feb?style=flat-square)
-![](https://img.shields.io/badge/-Backend%20Systems-1f6feb?style=flat-square)
-![](https://img.shields.io/badge/-Operational%20Tooling-1f6feb?style=flat-square)
-![](https://img.shields.io/badge/-MCP%20Tooling-1f6feb?style=flat-square)
-![](https://img.shields.io/badge/-AI%20Integrations-1f6feb?style=flat-square)
-![](https://img.shields.io/badge/-Cloud%20Native%20Architecture-1f6feb?style=flat-square)
-![](https://img.shields.io/badge/-Platform%20Engineering-1f6feb?style=flat-square)
-
-</div>
+| Area | Focus |
+|---|---|
+| 🔌 MCP Servers | Connecting AI models to internal systems and workflows |
+| 🎮 Game Development | Backend systems and infrastructure for games |
+| 📱 Mobile Apps | Android apps shipped on Google Play |
+| ⚙️ Infrastructure | Automation, CI/CD, and containerized environments |
+| 🤖 AI Integration | Wiring AI into real operational workflows |
