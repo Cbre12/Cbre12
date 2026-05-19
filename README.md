@@ -31,7 +31,7 @@ Backend Engineer focused on building reliable systems — from AI infrastructure
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cbre12&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<img src="https://streak-stats.demolab.com?user=Cbre12&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
