@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Cole
-
 I create systems that improve workflows, streamline operations, and support long-term scalability. I enjoy developing backend services, automating deployment pipelines, integrating AI into operational tooling, and building infrastructure that helps teams ship faster and more reliably.
 
 ## 🚀 Areas of Interest
@@ -57,7 +56,9 @@ I create systems that improve workflows, streamline operations, and support long
 
 ---
 
-# 🔨 What I'm Building
+## 🔨 What I'm Building
+
+<div align="center">
 
 | | Area | Focus |
 |:---:|:---:|:---|
@@ -66,6 +67,8 @@ I create systems that improve workflows, streamline operations, and support long
 | 📱 | **Mobile Apps** | Android applications built for usability and performance |
 | ⚙️ | **Infrastructure** | Automation pipelines, CI/CD systems, and containerized deployments |
 | 🤖 | **AI Integration** | Implementing AI into real-world systems and developer tooling |
+
+</div>
 
 <br>
 
