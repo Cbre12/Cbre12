@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Cole
-I create systems that improve workflows, streamline operations, and support long-term scalability. I enjoy developing backend services, automating deployment pipelines, integrating AI into operational tooling, and building infrastructure that helps teams ship faster and more reliably.
+I create systems that improve workflows, streamline operations, and support long-term scalability. I enjoy developing backend services, automating deployment pipelines, integrating AI into operational tooling, and building infrastructure that help ship faster and more reliably.
 
 ## 🚀 Areas of Interest
 
