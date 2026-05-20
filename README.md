@@ -5,9 +5,41 @@ Backend Engineer focused on building reliable systems — from AI infrastructure
 
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,bash,docker,linux,androidstudio&theme=dark" />
-</p>
+## Tech Stack
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="65" /><br>
+<strong>Python</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="65" /><br>
+<strong>JavaScript</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" width="65" /><br>
+<strong>Bash</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="65" /><br>
+<strong>Docker</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="65" /><br>
+<strong>Linux</strong>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="65" /><br>
+<strong>Android</strong>
+</td>
+</tr>
+</table>
 
 <br>
 
