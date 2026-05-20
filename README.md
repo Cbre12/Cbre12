@@ -10,8 +10,6 @@ I create systems that improve workflows, streamline operations, and support long
 - 🎮 Game backend systems and tooling
 - 📱 Mobile application development
 
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -52,8 +50,6 @@ I create systems that improve workflows, streamline operations, and support long
 
 </div>
 
-<br>
-
 ---
 
 ## 🔨 What I'm Building
@@ -69,8 +65,6 @@ I create systems that improve workflows, streamline operations, and support long
 | 🤖 | **AI Integration** | Implementing AI into real-world systems and developer tooling |
 
 </div>
-
-<br>
 
 ---
 
