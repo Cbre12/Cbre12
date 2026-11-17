@@ -7,7 +7,6 @@ I build systems that improve workflows, automate repetitive tasks, and make appl
 - 🤖 AI workflow integration and MCP servers
 - 🐳 Infrastructure automation and CI/CD
 - 🐧 Containerized environments and Linux systems
-- 🎮 Game backend systems and tooling
 - 📱 Mobile application development
 
 ## 🛠️ Tech Stack
