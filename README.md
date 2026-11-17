@@ -59,7 +59,6 @@ I build systems that improve workflows, automate repetitive tasks, and make appl
 | | Area | Focus |
 |:---:|:---:|:---|
 | 🔌 | **MCP Servers** | Connecting AI models to internal systems and operational workflows |
-| 🎮 | **Game Development** | Backend infrastructure, multiplayer systems, and tooling |
 | 📱 | **Mobile Apps** | Android applications built for usability and performance |
 | ⚙️ | **Infrastructure** | Automation pipelines, CI/CD systems, and containerized deployments |
 | 🤖 | **AI Integration** | Implementing AI into real-world systems and developer tooling |
